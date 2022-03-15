@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krzysiekksi6
 - 👀 I’m interested in ... Web Development, 
-- 🌱 I’m currently learning ... Java, JavaScript, PostgreSQL, React.js, React native
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
