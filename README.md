@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Krzysiekksi6
-- 👀 I’m interested in ... Web Development, 
+- 👀 I’m interested in ... Front-End Development and some Backend technologies
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Krzysiekksi6/Krzysiekksi6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
