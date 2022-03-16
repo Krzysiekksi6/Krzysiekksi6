@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krzysiekksi6
-- 👀 I’m interested in ... Front-End Development and some Backend technologies
+- 👀 I’m interested in ... Front-End Development and some Back-end technologies
 - 🌱 I’m currently learning ... Java
 
 
