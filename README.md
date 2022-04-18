@@ -5,6 +5,7 @@
 - HTML5
 - CSS3
 - SASS
+- BEM
 - JavaScript
 - Flexbox
 - Bootstrap
