@@ -3,11 +3,12 @@
 - 🌱 I’m currently learning ... Java
 - 🎓 Technologies that I had the pleasure to use:
 - **HTML5**
--- **CSS3**
+- **CSS3**
 - SASS
 - BEM
-- **JavaScript**
 - Flexbox
+- Grid
+- **JavaScript**
 - Bootstrap
 - Slick.js
 - **Java**
