@@ -16,3 +16,4 @@
 - AssertJ
 - Hamcrest
 - Mockito
+- **Git**
