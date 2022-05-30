@@ -12,3 +12,7 @@
 - Bootstrap
 - Slick.js
 - **Java**
+- JUnit5
+- AssertJ
+- Hamcrest
+- Mockito
