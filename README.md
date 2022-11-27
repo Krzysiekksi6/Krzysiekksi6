@@ -2,6 +2,7 @@
 - 👀 I’m interested in ... Front-End Development and some Back-End technologies
 - 🌱 I’m currently learning ...
 - 🎓 Technologies that I had the pleasure to use:
+- Java
 - HTML5
 - CSS3
 - SASS
@@ -9,5 +10,6 @@
 - ReacJS
 - React Native
 - Bootstrap
-- Java
+- Slick.js
+
 
