@@ -11,5 +11,7 @@
 - React Native
 - Bootstrap
 - Slick.js
+- Flexbox
+- Grid
 
 
