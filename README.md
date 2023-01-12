@@ -10,8 +10,9 @@
 - ReacJS
 - React Native
 - Bootstrap
-- Slick.js
 - Flexbox
 - Grid
+- Git / Github / Bitbucket
+- REST API
 
 
