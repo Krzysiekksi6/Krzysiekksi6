@@ -7,7 +7,7 @@
 - CSS3
 - SASS
 - JavaScript
-- ReacJS
+- ReactJS, React Router, Styled Components
 - React Native
 - Bootstrap
 - Flexbox
