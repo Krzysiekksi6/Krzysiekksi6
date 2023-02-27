@@ -9,6 +9,9 @@
 - JavaScript
 - ReactJS, React Router, Styled Components, CSS Modules
 - React Native
+- PostgreSQL
+- MongoDB
+- Firebase
 - Bootstrap
 - Flexbox
 - Grid
