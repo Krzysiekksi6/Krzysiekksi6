@@ -19,7 +19,7 @@ Projects I have completed and have on my Github profile:
 - Quiz-Application - academic quiz app project using React Native Technology
 - First-Responsive-Website - my first website based on pure HTML5 and CSS3
   
-  I am currently in the middle of a project using ReactJS technology "Food Order App SPA"
-Simulation of user's food ordering as Backend I am using Firebase
+  I am currently in the middle of a project using ReactJS technology "Rental Car Cost Calculator SPA"
+as Backend I am using Firebase.
 
 
