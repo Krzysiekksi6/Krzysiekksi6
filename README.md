@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Krzysiekksi6
+# 👋 Hi, I’m @Krzysiek
 
 ** `👀 Front-End Developer (React Developer/Web Developer)`**
 
@@ -41,7 +41,8 @@ All coding projects are built from the ground up, from planning and designing al
 - First-Responsive-Website - my first website based on pure HTML5 and CSS3
  
  #
- I am currently in the middle of a project using ReactJS technology "Rental Car Cost Calculator SPA"
+
+I am currently in the middle of a project using ReactJS technology "Rental Car Cost Calculator SPA"
 as Backend I am using Firebase.
 
 
