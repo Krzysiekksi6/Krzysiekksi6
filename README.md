@@ -40,6 +40,7 @@ All coding projects are built from the ground up, from planning and designing al
 ### 📊 Stats
 
 ![Krzysiekksi6 GitHub stats](https://github-readme-stats.vercel.app/api?username=Krzysiekksi6&show_icons=true&theme=gruvbox)
-#
 
+![](https://komarev.com/ghpvc/?username=Krzysiekksi6&style=for-the-badge)
+#
 
