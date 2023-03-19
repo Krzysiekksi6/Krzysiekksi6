@@ -5,15 +5,6 @@
 I'm an front-end developer aiming to become full-stack building my version of the digital world one step at a time. 
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-- Java
-- HTML5
-- CSS3, SCSS
-- JavaScript ReactJS, React Native
-- PostgreSQL, MySQL, MongoDB, Firebase
-- Bootstrap, Flexbox, Grid
-- Git / Github / Bitbucket
-- REST API
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
