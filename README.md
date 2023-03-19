@@ -24,7 +24,7 @@ All coding projects are built from the ground up, from planning and designing al
 
 #
 
-### 🎓 Projects I have completed and have on my Github profile:
+### 🏄‍♂️ Projects I have completed and have on my Github profile:
 
 - movie database - academic project along the lines of the popular Filmweb application implemented using ReactJS and an available external API
 - DanielSikora/MovieApp - academic group project in Java, Spring boot, HTML5, CSS3, JS 
@@ -34,7 +34,12 @@ All coding projects are built from the ground up, from planning and designing al
  
  #
 
-I am currently in the middle of a project using ReactJS technology "Rental Car Cost Calculator SPA"
+### 🎓 I am currently in the middle of a project using ReactJS technology "Rental Car Cost Calculator SPA"
 as Backend I am using Firebase.
+
+### 📊 Stats
+
+![Krzysiekksi6 GitHub stats](https://github-readme-stats.vercel.app/api?username=Krzysiekksi6&show_icons=true&theme=gruvbox)
+#
 
 
