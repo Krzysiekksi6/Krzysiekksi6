@@ -7,20 +7,47 @@ All coding projects are built from the ground up, from planning and designing al
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+ <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></a>
+ <a href="https://react.dev" target="_blank" rel="noreferrer">
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+ </a>
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
 <img align="left" alt="React Native" width="40px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
+ </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+ </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+ </a>
+ <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+ </a>
+  <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer">
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ </a>
+ <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
 <img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+ </a>
+ <a href="https://firebase.google.com/docs?hl=en" target="_blank" rel="noreferrer">
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+ </a>
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer">
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+ </a>
+ <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer">
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+ </a>
+  <a href="https://bitbucket.org/product/" target="_blank" rel="noreferrer">
 <img align="left" alt="Bitbucket" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+  </a>
+  <a href="https://developer.android.com/docs" target="_blank" rel="noreferrer">
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+  </a>
 <br/>
 
 
