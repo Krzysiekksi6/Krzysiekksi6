@@ -62,7 +62,7 @@ All coding projects are built from the ground up, from planning and designing al
  
  #
 
-### 🎓 I am currently in the middle of a project using ReactJS technology "Rental Car Cost Calculator SPA" as Backend I am using Firebase.
+### 🎓 I am currently in the middle of a project using ReactJS technology "Rental Car Cost Calculator React.js" as Backend I am using Firebase.
 
 ### 📊 Stats
 
