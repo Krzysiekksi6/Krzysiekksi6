@@ -12,6 +12,9 @@ All coding projects are built from the ground up, from planning and designing al
  <a href="https://react.dev" target="_blank" rel="noreferrer">
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  </a>
+ <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+ <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
+ </a>
   <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
  </a>
