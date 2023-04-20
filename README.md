@@ -74,3 +74,6 @@ All coding projects are built from the ground up, from planning and designing al
 ![](https://komarev.com/ghpvc/?username=Krzysiekksi6&style=for-the-badge)
 #
 
+www.linkedin.com/in/krzysztof-książek-a7b220226
+
+
