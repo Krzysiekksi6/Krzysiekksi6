@@ -55,6 +55,8 @@ All coding projects are built from the ground up, from planning and designing al
 
 
 #
+### 🎓 I am currently in the middle of a project using Angular CLI "AudioShop" as Backend I am using , NodeJS, Express, MongoDB. Full CRUD App with Authentication
+#
 ### 🏄‍♂️ Projects I have completed and have on my Github profile:
 
 - movie database - academic project along the lines of the popular Filmweb application implemented using ReactJS and an available external API
@@ -63,9 +65,6 @@ All coding projects are built from the ground up, from planning and designing al
 - Quiz-Application - academic quiz app project using React Native Technology
 - First-Responsive-Website - my first website based on pure HTML5 and CSS3
  
- #
-
-### 🎓 I am currently in the middle of a project using Angular CLI technology "AudioShop" as Backend I am using , NodeJS, Express, MongoDB. Full CRUD App with Authentication
 
 ### 📊 Stats
 
