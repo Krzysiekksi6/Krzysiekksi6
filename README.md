@@ -55,8 +55,8 @@ All coding projects are built from the ground up, from planning and designing al
 
 
 #
-### 🎓 I am currently in the middle of a project using Angular CLI "AudioShop" as Backend I am using , NodeJS, Express, MongoDB. 
-###    Full CRUD App with Authentication
+### 🎓 I am currently in the middle of a project using Angular CLI "AudioShop"  
+###    Full CRUD App with Authentication as Backend I am using , NodeJS, Express, MongoDB.
 #
 ### 🏄‍♂️ Projects I have completed and have on my Github profile:
 
