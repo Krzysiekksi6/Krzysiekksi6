@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Krzysiek
 
-** `👀 Front-End Developer / Web Developer`**
+** `👀 Front-End Developer / Back-End Developer`**
 
 I'm an front-end developer aiming to become full-stack building my version of the digital world one step at a time. 
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
@@ -55,8 +55,8 @@ All coding projects are built from the ground up, from planning and designing al
 
 
 #
-### 🎓 I am currently in the middle of a project "AudioShop" using MEAN stack 
-###    Full CRUD App with Authentication  with MongoDB, Express, Angular, NodeJS
+###  I am currently in the middle of a full CRUD with Authentication project "AudioShop" using Mongo Express Angular Node stack 
+
 #
 ### 🏄‍♂️ Projects I have completed and have on my Github profile:
 
