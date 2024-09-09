@@ -5,6 +5,9 @@
 I'm an front-end developer aiming to become full-stack building my version of the digital world one step at a time. 
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
+**Project for First Client**  
+[OSP Łęki Dolne Website](https://osp-ksrg-leki-dolne.pl)  
+
 ### 🧰 Languages and Tools
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
