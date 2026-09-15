@@ -58,7 +58,6 @@ All coding projects are built from the ground up, from planning and designing al
 
 
 #
-###  I am currently in the middle of a full CRUD with Authentication project "AudioShop" using Mongo Express Angular Node stack 
 
 #
 ### 🏄‍♂️ Projects I have completed and have on my Github profile:
